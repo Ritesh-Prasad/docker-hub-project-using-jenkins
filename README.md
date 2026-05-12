@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ArgoCd.png" width="800">
+  <img src="docker-hub.png" width="800">
 </p>
 <p align="center">
   <img src="images/command_history.png" width="800">
