@@ -2,14 +2,14 @@
   <img src="docker-hub.png" width="800">
 </p>
 <p align="center">
-  <img src="images/command_history.png" width="800">
+  <img src="jenkins-pipeline.png" width="800">
 </p>
 <p align="center">
-  <img src="images/pods_svc.png" width="800">
+  <img src="netflix-clone.png" width="800">
 </p>
 <p align="center">
-  <img src="images/s3_bucket.png" width="800">
+  <img src="parameter.png" width="800">
 </p>
 <p align="center">
-  <img src="images/website_deploy_netflix_clon.png" width="800">
+  <img src="pipeline_stage_view.png" width="800">
 </p>
